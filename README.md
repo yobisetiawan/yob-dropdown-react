@@ -1,3 +1,7 @@
+```
+npm install github:yobisetiawan/yob-dropdown-react
+```
+
 Example
 ```
 import { useState } from "react";
