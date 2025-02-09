@@ -1,9 +1,9 @@
-```
+```bash
 npm install github:yobisetiawan/yob-dropdown-react
 ```
 
 Example
-```
+```js
 import { useState } from "react";
 
 import Dropdown from "yob-dropdown-react";
